@@ -1,0 +1,5 @@
+IP: 51.250.25.151;
+name_taski: https://dboytsev.sytes.net/;
+name_kittygram: https://boytsevserver.sytes.net//;
+login: yc-user; 
+passworld: yc-user;
